@@ -1,2 +1,2 @@
 # ribaksudesquad
-repositori untuk menyimpan rencana RSS 2023
+repositori untuk menyimpan rencana RSS Tahun 2023
